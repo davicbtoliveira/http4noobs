@@ -62,7 +62,7 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 ## Autores
 
-- **Seu Nome** - _Desenvolvedor_ - [@davicbtoliveira](https://github.com/davicbtoliveira)
+- **Davi OLiveira** - _Desenvolvedor_ - [@davicbtoliveira](https://github.com/davicbtoliveira)
 
 ---
 
