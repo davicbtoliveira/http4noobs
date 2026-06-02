@@ -11,7 +11,9 @@
 <p align="center">
   <h2 align="center">http4noobs</h2>
 
-  <h1 align="center">🌐</h1>
+  <h1 align="center">
+    <img src="images/http.png" width="64" height="64">
+  </h1>
 
   <p align="center">
     Um guia introdutório sobre HTTP e comunicação na Web para iniciantes.
