@@ -39,12 +39,12 @@ Você vai aprender desde o básico — o que é um protocolo, como funcionam as 
 
 ## ROADMAP
 
-- [Introdução](./docs/introducao/)
-  - [Comunicação na Web](./docs/introducao/comunicacao-na-web.md)
-  - [HTTP Requests e Responses](./docs/introducao/http-requests-e-responses.md)
-  - [HTTP URLs](./docs/introducao/http-urls.md)
-  - [Web Clients](./docs/introducao/web-clients.md)
-  - [Servidores Web](./docs/introducao/servidores-web.md)
+- [Introdução](./modules/intro/)
+  - [Comunicação na Web](./modules/intro/intro.md#comunicacao-na-web)
+  - [HTTP Requests e Responses](./modules/intro/intro.md#http-requests-e-responses)
+  - [HTTP URLs](./modules/intro/intro.md#http-urls)
+  - [Web Clients](./modules/intro/intro.md#web-clients)
+  - [Servidores Web](./modules/intro/intro.md#servidores-web)
 
 > ⚠️ **Conteúdo em desenvolvimento.** Novas seções serão adicionadas em breve!
 
