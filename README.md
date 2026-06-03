@@ -46,6 +46,12 @@ Você vai aprender desde o básico — o que é um protocolo, como funcionam as 
   - [Web Clients](./modules/intro/intro.md#web-clients)
   - [Servidores Web](./modules/intro/intro.md#servidores-web)
 
+- [JSON](./modules/json/)
+  - [Visão Geral do JSON](./modules/json/visao-geral-json.md)
+  - [Sintaxe](./modules/json/sintaxe.md)
+  - [O que é o XML](./modules/json/xml.md)
+  - [Por que usar XML?](./modules/json/porque-usar-xml.md)
+
 > ⚠️ **Conteúdo em desenvolvimento.** Novas seções serão adicionadas em breve!
 
 <!-- CONTRIBUTING -->
